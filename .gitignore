@@ -3,3 +3,5 @@
 *.review
 *.balanced
 *.csv
+*.tar
+*.gz
