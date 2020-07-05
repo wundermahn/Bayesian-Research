@@ -22,8 +22,8 @@ This notebook intends to provide project status through 06/18/2020.
 
 ### The following action items require additional work:
  - Determine feature importances
- - Code clean up
-
+ - Add directory structure(s) to readme.md file
+ 
 # Resources Used (as of 07/05/2020)
 &nbsp;
 
